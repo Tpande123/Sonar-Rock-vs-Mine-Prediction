@@ -4,10 +4,15 @@ Creating different classification models to predict whether our submarine has de
 This is a Supervised Machine Learning Problem.
 The different steps involved are  -> 
 
-1.) Importing the Dependencies
-2.) Data Processing and Data Analysis
+1.) Importing the Dependencies.
+
+2.) Data Processing and Data Analysis.
+
 3.) Splitting Data into Training and Test data.
+
 4.) Training the different classification models.
+
+5.) Evaluating each of these models to find their respective accuracy scores using training and testing data.
 
 
 ## Prerequirements for the code file: -
