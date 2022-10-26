@@ -2,6 +2,12 @@
 
 Creating different classification models to predict whether our submarine has detected a rock or a mine in its vicinity and finding the accuracy for each of these models to see how the different models compare to one another.
 This is a Supervised Machine Learning Problem.
+The different steps involved are  -> 
+
+1.) Importing the Dependencies
+2.) Data Processing and Data Analysis
+3.) Splitting Data into Training and Test data.
+4.) Training the different classification models.
 
 
 ## Prerequirements for the code file: -
