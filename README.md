@@ -1,7 +1,7 @@
 # Introduction: -
 
 Creating different classification models to predict whether our submarine has detected a rock or a mine in its vicinity and finding the accuracy for each of these models to see how the different models compare to one another.
-This is a Supervised Machine Learning Problem
+This is a Supervised Machine Learning Problem.
 
 
 ## Prerequirements for the code file: -
